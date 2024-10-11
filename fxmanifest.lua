@@ -3,10 +3,6 @@ game 'gta5'
 
 author 'https://github.com/krabinator'
 
-files {
-    'header.png'
-}
-
 shared_scripts {
     'Shared.lua'
 }
